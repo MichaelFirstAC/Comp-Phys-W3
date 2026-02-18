@@ -85,7 +85,7 @@ print(f"Time for N={N}: {time.time() - start}s")
 ---
 
 ## Exercise 1.5: Matrix Multiplication Complexity
-*Plotting running times for NxN matrix multiplication ($0 < N \le 1000$).*
+Plotting running times for NxN matrix multiplication ($0 < N \le 1000$).
 
 
 
@@ -115,7 +115,7 @@ plt.show()
 ---
 
 ## Exercise 1.6: Numerical Integration
-*Calculating the integral from textbook exercise 4.4 (p. 138) with precision $10^{-10}$.* 
+Calculating the integral from textbook exercise 4.4 (p. 138) with precision $10^{-10}$.
 
 - **Requirement:** Precision up to $1e-10$. 
 - **Method:** Adaptive Simpson’s Rule or Gaussian Quadrature is recommended to achieve this level of accuracy with fewer iterations.
